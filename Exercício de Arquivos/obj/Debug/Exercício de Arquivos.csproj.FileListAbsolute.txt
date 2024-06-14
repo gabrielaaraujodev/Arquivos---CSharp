@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Arquivos\Exercício de Arquivos\bin\Debug\Exercício de Arquivos.exe.config
+C:\Users\Gabriel Araujo\source\repos\Arquivos\Exercício de Arquivos\bin\Debug\Exercício de Arquivos.exe
+C:\Users\Gabriel Araujo\source\repos\Arquivos\Exercício de Arquivos\bin\Debug\Exercício de Arquivos.pdb
+C:\Users\Gabriel Araujo\source\repos\Arquivos\Exercício de Arquivos\obj\Debug\Exercício de Arquivos.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Arquivos\Exercício de Arquivos\obj\Debug\Exercício de Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Arquivos\Exercício de Arquivos\obj\Debug\Exercício de Arquivos.exe
+C:\Users\Gabriel Araujo\source\repos\Arquivos\Exercício de Arquivos\obj\Debug\Exercício de Arquivos.pdb
